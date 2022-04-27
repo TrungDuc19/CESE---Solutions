@@ -9,10 +9,10 @@
 - [Range Queries](Range-Queries)
 - [Tree Algorithms](Tree-Algorithms)
 - [Mathematics](Mathematic)
-- [String Algorithms](String Algorithms)
+- [String Algorithms](String-Algorithms)
 - [Geometry](Geometry)
-- [Advanced Techniques](Advanced Techniques)
-- [Additional Problems](Additional Problems)
+- [Advanced Techniques](Advanced-Techniques)
+- [Additional Problems](Additional-Problems)
 
 ## Sorting and Searching
 1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
