@@ -1,5 +1,6 @@
 # CESE---Solutions
 > Accepted solutions of [CSES Problem Set](https://cses.fi/problemset/list/)
+> Written by Cao Trung Duc [trungdc2003](https://cses.fi/user/105392)
 
 ## Table of contents
 |                  Problem Type                   | Number Solved |
