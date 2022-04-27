@@ -5,4 +5,4 @@
 - [Sorting and Searching](#Sorting-and-Searching)
 
 ## Sorting and Searching
-- [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
+1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
