@@ -2,20 +2,20 @@
 > Accepted solutions of [CSES Problem Set](https://cses.fi/problemset/list/)
 
 ## Table of contents
-| Problem Type          | Number Solved |
-|-----------------------|:-------------:|
+| Problem Type                                    | Number Solved |
+|-------------------------------------------------|:-------------:|
 | [Introductory Problems](#Introductory-Problems) |     19/19     |
 | [Sorting and Searching](#Sorting-and-Searching) |     35/35     |
-| Dynamic Programming   |     19/19     |
-| Graph Algorithms      |     36/36     |
-| Range Queries         |     19/19     |
+| [Dynamic Programming](Dynamic-Programming)      |     19/19     |
+| [Graph Algorithms](Graph-Algorithms)            |     36/36     |
+| [Range Queries](Range-Queries)                  |     19/19     |
 | Tree Algorithms       |     16/16     |
 | Mathematics           |     31/31     |
 | String Algorithms     |     17/17     |
 | Geometry              |      7/7      |
 | Advanced Techniques   |     24/24     |
-| Additional Problems   |     48/77     |
-| **Total**             |  **271/300**  |
+| [Additional Problems](Additional-Problems)       |     48/77     |
+| **Total**                                        |  **271/300**  |
 - [Introductory Problems](#Introductory-Problems) (0/19)
 - [Sorting and Searching](#Sorting-and-Searching) (3/35)
 - [Dynamic Programming](Dynamic-Programming) (0/19)
