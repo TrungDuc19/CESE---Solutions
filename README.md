@@ -17,7 +17,27 @@
 | [Additional Problems](Additional-Problems)      |      0/77     |
 | **Total**                                       |   **3/300**   |
 
+## Introductory Problems
+
 ## Sorting and Searching
 1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
 3. [1640 - Sum of Two Values](source/1640%20-%20Sum%20of%20Two%20Values.cpp)
 4. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
+
+## Dynamic Programming
+
+## Graph Algorithms
+
+## Range Queries
+
+## Tree Algorithms
+
+## Mathematics
+
+## String Algorithms
+
+## Geometry
+
+## Advanced Techniques
+
+## Additional Problems
