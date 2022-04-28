@@ -4,7 +4,7 @@
 ## Table of contents
 |                  Problem Type                   | Number Solved |
 |-------------------------------------------------|:-------------:|
-| [Introductory Problems](#Introductory-Problems) |      0/19     |
+| [Introductory Problems](#Introductory-Problems) |      2/19     |
 | [Sorting and Searching](#Sorting-and-Searching) |      4/35     |
 | [Dynamic Programming](#Dynamic-Programming)     |      1/19     |
 | [Graph Algorithms](#Graph-Algorithms)           |      0/36     |
@@ -15,7 +15,7 @@
 | [Geometry](#Geometry)                           |      0/7      |
 | [Advanced Techniques](#Advanced-Techniques)     |      0/24     |
 | [Additional Problems](#Additional-Problems)     |      0/77     |
-| **Total**                                       |   **5/300**   |
+| **Total**                                       |   **7/300**   |
 
 ## Introductory Problems
 1. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
