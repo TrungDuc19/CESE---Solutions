@@ -1,4 +1,4 @@
-# CESE---Solutions
+# CESE-Solutions
 > Accepted solutions of [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Cao Trung Duc ([trungdc2003](https://cses.fi/user/105392))
 
 ## Table of contents
