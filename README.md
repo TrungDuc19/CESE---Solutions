@@ -18,10 +18,11 @@
 | **Total**                                       |   **5/300**   |
 
 ## Introductory Problems
+1. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
 
 ## Sorting and Searching
 1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
-2. [1629 - Movie Festival.cpp](source/1629%20-%20Movie%20Festival.cpp)
+2. [1629 - Movie Festival](source/1629%20-%20Movie%20Festival.cpp)
 3. [1640 - Sum of Two Values](source/1640%20-%20Sum%20of%20Two%20Values.cpp)
 4. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
 
