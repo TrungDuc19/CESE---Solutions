@@ -6,7 +6,7 @@
 |-------------------------------------------------|:-------------:|
 | [Introductory Problems](#Introductory-Problems) |      0/19     |
 | [Sorting and Searching](#Sorting-and-Searching) |      3/35     |
-| [Dynamic Programming](Dynamic-Programming)      |      0/19     |
+| [Dynamic Programming](Dynamic-Programming)      |      1/19     |
 | [Graph Algorithms](Graph-Algorithms)            |      0/36     |
 | [Range Queries](Range-Queries)                  |      0/19     |
 | [Tree Algorithms](Tree-Algorithms)              |      0/16     |
@@ -15,7 +15,7 @@
 | [Geometry](Geometry)                            |      0/7      |
 | [Advanced Techniques](Advanced-Techniques)      |      0/24     |
 | [Additional Problems](Additional-Problems)      |      0/77     |
-| **Total**                                       |   **3/300**   |
+| **Total**                                       |   **4/300**   |
 
 ## Introductory Problems
 
@@ -25,6 +25,7 @@
 4. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
 
 ## Dynamic Programming
+1. [1637 - Removing Digits.cpp](source/1637%20-%20Removing%20Digits.cpp)
 
 ## Graph Algorithms
 
