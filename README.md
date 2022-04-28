@@ -5,7 +5,7 @@
 |                  Problem Type                   | Number Solved |
 |-------------------------------------------------|:-------------:|
 | [Introductory Problems](#Introductory-Problems) |      0/19     |
-| [Sorting and Searching](#Sorting-and-Searching) |      3/35     |
+| [Sorting and Searching](#Sorting-and-Searching) |      4/35     |
 | [Dynamic Programming](Dynamic-Programming)      |      1/19     |
 | [Graph Algorithms](Graph-Algorithms)            |      0/36     |
 | [Range Queries](Range-Queries)                  |      0/19     |
@@ -15,12 +15,13 @@
 | [Geometry](Geometry)                            |      0/7      |
 | [Advanced Techniques](Advanced-Techniques)      |      0/24     |
 | [Additional Problems](Additional-Problems)      |      0/77     |
-| **Total**                                       |   **4/300**   |
+| **Total**                                       |   **5/300**   |
 
 ## Introductory Problems
 
 ## Sorting and Searching
 1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
+2. [1629 - Movie Festival.cpp](source/1629%20-%20Movie%20Festival.cpp)
 3. [1640 - Sum of Two Values](source/1640%20-%20Sum%20of%20Two%20Values.cpp)
 4. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
 
