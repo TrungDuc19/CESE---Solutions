@@ -33,6 +33,7 @@
 ## Graph Algorithms
 
 ## Range Queries
+1. [1646 - Static Range Sum Queries](source/1646%20-%20Static%20Range%20Sum%20Queries.cpp)
 
 ## Tree Algorithms
 
