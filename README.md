@@ -6,15 +6,15 @@
 |-------------------------------------------------|:-------------:|
 | [Introductory Problems](#Introductory-Problems) |      0/19     |
 | [Sorting and Searching](#Sorting-and-Searching) |      4/35     |
-| [Dynamic Programming](Dynamic-Programming)      |      1/19     |
-| [Graph Algorithms](Graph-Algorithms)            |      0/36     |
-| [Range Queries](Range-Queries)                  |      0/19     |
-| [Tree Algorithms](Tree-Algorithms)              |      0/16     |
-| [Mathematics](Mathematic)                       |      0/31     |
-| [String Algorithms](String-Algorithms)          |      0/17     |
-| [Geometry](Geometry)                            |      0/7      |
-| [Advanced Techniques](Advanced-Techniques)      |      0/24     |
-| [Additional Problems](Additional-Problems)      |      0/77     |
+| [Dynamic Programming](#Dynamic-Programming)      |      1/19     |
+| [Graph Algorithms](#Graph-Algorithms)            |      0/36     |
+| [Range Queries](#Range-Queries)                  |      0/19     |
+| [Tree Algorithms](#Tree-Algorithms)              |      0/16     |
+| [Mathematics](#Mathematic)                       |      0/31     |
+| [String Algorithms](#String-Algorithms)          |      0/17     |
+| [Geometry](#Geometry)                            |      0/7      |
+| [Advanced Techniques](#Advanced-Techniques)      |      0/24     |
+| [Additional Problems](#Additional-Problems)      |      0/77     |
 | **Total**                                       |   **5/300**   |
 
 ## Introductory Problems
