@@ -8,7 +8,7 @@
 | [Sorting and Searching](#Sorting-and-Searching) |      4/35     |
 | [Dynamic Programming](#Dynamic-Programming)     |      1/19     |
 | [Graph Algorithms](#Graph-Algorithms)           |      0/36     |
-| [Range Queries](#Range-Queries)                 |      0/19     |
+| [Range Queries](#Range-Queries)                 |      1/19     |
 | [Tree Algorithms](#Tree-Algorithms)             |      0/16     |
 | [Mathematics](#Mathematic)                      |      0/31     |
 | [String Algorithms](#String-Algorithms)         |      0/17     |
