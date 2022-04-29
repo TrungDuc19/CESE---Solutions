@@ -15,7 +15,7 @@
 | [Geometry](#Geometry)                           |      0/7      |
 | [Advanced Techniques](#Advanced-Techniques)     |      0/24     |
 | [Additional Problems](#Additional-Problems)     |      0/77     |
-| **Total**                                       |   **Unknown/300**   |
+| **Total**                                       |**Unknown/300**|
 
 ## Introductory Problems
 1. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
