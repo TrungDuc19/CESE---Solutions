@@ -4,8 +4,8 @@
 ## Table of contents
 |                  Problem Type                   | Number Solved |
 |-------------------------------------------------|:-------------:|
-| [Introductory Problems](#Introductory-Problems) |      3/19     |
-| [Sorting and Searching](#Sorting-and-Searching) |      4/35     |
+| [Introductory Problems](#Introductory-Problems) |      4/19     |
+| [Sorting and Searching](#Sorting-and-Searching) |      5/35     |
 | [Dynamic Programming](#Dynamic-Programming)     |      1/19     |
 | [Graph Algorithms](#Graph-Algorithms)           |      0/36     |
 | [Range Queries](#Range-Queries)                 |      1/19     |
@@ -21,6 +21,7 @@
 1. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
 2. [1618 - Trailing Zeros](source/1618%20-%20Trailing%20Zeros.cpp)
 3. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
+4. [1754 - Coin Piles](source/1754%20-%20Coin%20Piles.cpp)
 
 ## Sorting and Searching
 1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
