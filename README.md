@@ -4,7 +4,7 @@
 ## Table of contents
 |                  Problem Type                   | Number Solved |
 |-------------------------------------------------|:-------------:|
-| [Introductory Problems](#Introductory-Problems) |      4/19     |
+| [Introductory Problems](#Introductory-Problems) |      5/19     |
 | [Sorting and Searching](#Sorting-and-Searching) |      5/35     |
 | [Dynamic Programming](#Dynamic-Programming)     |      1/19     |
 | [Graph Algorithms](#Graph-Algorithms)           |      0/36     |
@@ -20,10 +20,11 @@
 --------------------------------------------------------------------
 
 ## Introductory Problems
-1. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
-2. [1618 - Trailing Zeros](source/1618%20-%20Trailing%20Zeros.cpp)
-3. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
-4. [1754 - Coin Piles](source/1754%20-%20Coin%20Piles.cpp)
+1. [1071 - Number Spiral](source/1071%20-%20Number%20Spiral.cpp)
+2. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
+3. [1618 - Trailing Zeros](source/1618%20-%20Trailing%20Zeros.cpp)
+4. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
+5. [1754 - Coin Piles](source/1754%20-%20Coin%20Piles.cpp)
 
 ## Sorting and Searching
 1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
