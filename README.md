@@ -17,6 +17,8 @@
 | [Additional Problems](#Additional-Problems)     |      0/77     |
 | **Total**                                       |**Unknown/300**|
 
+--------------------------------------------------------------------
+
 ## Introductory Problems
 1. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
 2. [1618 - Trailing Zeros](source/1618%20-%20Trailing%20Zeros.cpp)
