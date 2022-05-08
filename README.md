@@ -32,6 +32,7 @@
 3. [1629 - Movie Festival](source/1629%20-%20Movie%20Festival.cpp)
 4. [1640 - Sum of Two Values](source/1640%20-%20Sum%20of%20Two%20Values.cpp)
 5. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
+6. [1074 - Stick Lengths](source/1074%20-%20Stick%20Lengths.cpp)
 
 ## Dynamic Programming
 1. [1637 - Removing Digits.cpp](source/1637%20-%20Removing%20Digits.cpp)
