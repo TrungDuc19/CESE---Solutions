@@ -27,7 +27,8 @@
 5. [1618 - Trailing Zeros](source/1618%20-%20Trailing%20Zeros.cpp)
 6. [1754 - Coin Piles](source/1754%20-%20Coin%20Piles.cpp)
 7. [1755 - Palindrome Reorder](source/1755%20-%20Palindrome%20Reorder.cpp)
-8. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
+8. [2165 - Tower of Hanoi](source/2165%20-%20Tower%20of%20Hanoi.cpp)
+9. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
 
 ## Sorting and Searching
 1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
