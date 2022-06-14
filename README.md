@@ -37,8 +37,9 @@
 4. [1640 - Sum of Two Values](source/1640%20-%20Sum%20of%20Two%20Values.cpp)
 5. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
 6. [1074 - Stick Lengths](source/1074%20-%20Stick%20Lengths.cpp)
-7. [1141 - Playlist](source/1141%20-%20Playlist.cpp)
-8. [1660 - Subarray Sums I](source/1660%20-%20Subarray%20Sums%20I.cpp)
+7. [2216 - Collecting Numbers](source/2216%20-%20Collecting%20Numbers.cpp)
+8. [1141 - Playlist](source/1141%20-%20Playlist.cpp)
+9. [1660 - Subarray Sums I](source/1660%20-%20Subarray%20Sums%20I.cpp)
 
 ## Dynamic Programming
 1. [1637 - Removing Digits](source/1637%20-%20Removing%20Digits.cpp)
