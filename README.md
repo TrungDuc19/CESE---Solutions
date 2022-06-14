@@ -41,7 +41,8 @@
 
 ## Dynamic Programming
 1. [1637 - Removing Digits](source/1637%20-%20Removing%20Digits.cpp)
-2. [1745 - Money Sums](source/1745%20-%20Money%20Sums.cpp)
+2. [1638 - Grid Paths](source/1638%20-%20Grid%20Paths.cpp)
+3. [1745 - Money Sums](source/1745%20-%20Money%20Sums.cpp)
 
 ## Graph Algorithms
 
