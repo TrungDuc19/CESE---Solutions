@@ -40,7 +40,8 @@
 7. [1141 - Playlist](source/1141%20-%20Playlist.cpp)
 
 ## Dynamic Programming
-1. [1637 - Removing Digits.cpp](source/1637%20-%20Removing%20Digits.cpp)
+1. [1637 - Removing Digits](source/1637%20-%20Removing%20Digits.cpp)
+2. [1745 - Money Sums](source/1745%20-%20Money%20Sums.cpp)
 
 ## Graph Algorithms
 
