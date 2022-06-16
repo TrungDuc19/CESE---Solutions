@@ -20,26 +20,61 @@
 --------------------------------------------------------------------
 
 ## Introductory Problems
-1. [1071 - Number Spiral](source/1071%20-%20Number%20Spiral.cpp)
-2. [1072 - Two Knights](source/1072%20-%20Two%20Knights.cpp)
-3. [1092 - Two Sets](source/1092%20-%20Two%20Sets.cpp)
-4. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
-5. [1618 - Trailing Zeros](source/1618%20-%20Trailing%20Zeros.cpp)
-6. [1754 - Coin Piles](source/1754%20-%20Coin%20Piles.cpp)
-7. [1755 - Palindrome Reorder](source/1755%20-%20Palindrome%20Reorder.cpp)
-8. [2165 - Tower of Hanoi](source/2165%20-%20Tower%20of%20Hanoi.cpp)
-9. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
+1. [1068 - Weird Algorithm]
+2. [1083 - Missing Number]
+3. [1069 - Repetitions]
+4. [1094 - Increasing Array]
+5. [1070 - Permutations]
+6. [1071 - Number Spiral](source/1071%20-%20Number%20Spiral.cpp)
+7. [1072 - Two Knights](source/1072%20-%20Two%20Knights.cpp)
+8. [1092 - Two Sets](source/1092%20-%20Two%20Sets.cpp)
+9. [1617 - Bit Strings](source/1617%20-%20Bit%20Strings.cpp)
+10. [1618 - Trailing Zeros](source/1618%20-%20Trailing%20Zeros.cpp)
+11. [1754 - Coin Piles](source/1754%20-%20Coin%20Piles.cpp)
+12. [1755 - Palindrome Reorder](source/1755%20-%20Palindrome%20Reorder.cpp)
+13. [2165 - Tower of Hanoi](source/2165%20-%20Tower%20of%20Hanoi.cpp)
+14. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
+15. [1623 - Apple Division](source/1623%20-%20Apple%20Division.cpp)
+16. [1624 - Chessboard and Queens]
+17. [2431 - Digit Queries]
+18. [1625 - Grid Paths]
 
 ## Sorting and Searching
-1. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
-2. [1619 - Restaurant Customers](source/1619%20-%20Restaurant%20Customers.cpp)
-3. [1629 - Movie Festival](source/1629%20-%20Movie%20Festival.cpp)
-4. [1640 - Sum of Two Values](source/1640%20-%20Sum%20of%20Two%20Values.cpp)
-5. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
-6. [1074 - Stick Lengths](source/1074%20-%20Stick%20Lengths.cpp)
-7. [2216 - Collecting Numbers](source/2216%20-%20Collecting%20Numbers.cpp)
-8. [1141 - Playlist](source/1141%20-%20Playlist.cpp)
-9. [1660 - Subarray Sums I](source/1660%20-%20Subarray%20Sums%20I.cpp)
+1. [1621 - Distinct Numbers]
+2. [1084 - Apartments]
+3. [1090 - Ferris Wheel]
+4. [1091 - Concert Tickets](source/1091%20-%20Concert%20Tickets.cpp)
+5. [1619 - Restaurant Customers](source/1619%20-%20Restaurant%20Customers.cpp)
+6. [1629 - Movie Festival](source/1629%20-%20Movie%20Festival.cpp)
+7. [1640 - Sum of Two Values](source/1640%20-%20Sum%20of%20Two%20Values.cpp)
+8. [1643 - Maximum Subarray Sum](source/1643%20-%20Maximum%20Subarray%20Sum.cpp)
+9. [1074 - Stick Lengths](source/1074%20-%20Stick%20Lengths.cpp)
+10. [2183 - Missing Coin Sum]
+11. [2216 - Collecting Numbers](source/2216%20-%20Collecting%20Numbers.cpp)
+12. [2217 - Collecting Numbers II]
+13. [1141 - Playlist](source/1141%20-%20Playlist.cpp)
+14. [1073 - Towers]
+15. [1163 - Traffic Lights]
+16. [2162 - Josephus Problem I]
+17. [2163 - Josephus Problem II]
+18. [2168 - Nested Ranges Check]
+19. [2169 - Nested Ranges Count]
+20. [1164 - Room Allocation]
+21. [1620 - Factory Machines]
+22. [1630 - Tasks and Deadlines]
+23. [1631 - Reading Books]
+24. [1641 - Sum of Three Values]
+25. [1642 - Sum of Four Values]
+26. [1645 - Nearest Smaller Values]
+27. [1660 - Subarray Sums I](source/1660%20-%20Subarray%20Sums%20I.cpp)
+28. [1661 - Subarray Sums II]
+29. [1662 - Subarray Divisibility]
+30. [2428 - Subarray Distinct Values]
+31. [1085 - Array Division]
+32. [1076 - Sliding Median]
+33. [1077 - Sliding Cost]
+34. [1632 - Movie Festival II]
+35. [1644 - Maximum Subarray Sum II]
 
 ## Dynamic Programming
 1. [1637 - Removing Digits](source/1637%20-%20Removing%20Digits.cpp)
