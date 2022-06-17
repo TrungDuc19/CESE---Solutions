@@ -77,11 +77,39 @@
 35. [1644 - Maximum Subarray Sum II]
 
 ## Dynamic Programming
-1. [1637 - Removing Digits](source/1637%20-%20Removing%20Digits.cpp)
-2. [1638 - Grid Paths](source/1638%20-%20Grid%20Paths.cpp)
-3. [1745 - Money Sums](source/1745%20-%20Money%20Sums.cpp)
+1. [1633 - Dice Combinations]
+2. [1634 - Minimizing Coins]
+3. [1635 - Coin Combinations I]
+4. [1636 - Coin Combinations II]
+5. [1637 - Removing Digits](source/1637%20-%20Removing%20Digits.cpp)
+6. [1638 - Grid Paths](source/1638%20-%20Grid%20Paths.cpp)
+7. [1158 - Book Shop](source/1158%20-%20Book%20Shop.cpp)
+8. [1746 - Array Description]
+9. [2413 - Counting Towers]
+10. [1639 - Edit Distance]
+11. [1744 - Rectangle Cutting]
+12. [1745 - Money Sums](source/1745%20-%20Money%20Sums.cpp)
+13. [1097 - Removal Game]
+14. [1093 - Two Sets II]
+15. [1145 - Increasing Subsequence]
+16. [1140 - Projects]
+17. [1653 - Elevator Rides]
+18. [2181 - Counting Tilings]
+19. [2220 - Counting Numbers]
 
 ## Graph Algorithms
+1. [1192 - Counting Rooms]
+2. [1193 - Labyrinth]
+3. [1666 - Building Roads]
+4. [1667 - Message Route]
+5. [1668 - Building Teams]
+6. [1669 - Round Trip]
+7. [1194 - Monsters]
+8. [1671 - Shortest Routes I]
+9. [1672 - Shortest Routes II]
+10. [1673 - High Score]
+
+
 
 ## Range Queries
 1. [1646 - Static Range Sum Queries](source/1646%20-%20Static%20Range%20Sum%20Queries.cpp)
