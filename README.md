@@ -113,7 +113,7 @@
 
 ## Range Queries
 1. [1646 - Static Range Sum Queries](source/1646%20-%20Static%20Range%20Sum%20Queries.cpp)
-
+2. [1647 - Static Range Minimum Queries](source/1647%20-%20Static%20Range%20Minimum%20Queries.cpp)
 ## Tree Algorithms
 
 ## Mathematics
