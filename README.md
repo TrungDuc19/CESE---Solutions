@@ -98,7 +98,7 @@
 19. [2220 - Counting Numbers]
 
 ## Graph Algorithms
-1. [1192 - Counting Rooms]
+1. [1192 - Counting Rooms](source/1192%20-%20Counting%20Rooms.cpp)
 2. [1193 - Labyrinth]
 3. [1666 - Building Roads]
 4. [1667 - Message Route]
@@ -108,8 +108,6 @@
 8. [1671 - Shortest Routes I]
 9. [1672 - Shortest Routes II]
 10. [1673 - High Score]
-
-
 
 ## Range Queries
 1. [1646 - Static Range Sum Queries](source/1646%20-%20Static%20Range%20Sum%20Queries.cpp)
