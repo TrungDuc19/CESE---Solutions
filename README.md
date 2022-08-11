@@ -112,6 +112,9 @@
 ## Range Queries
 1. [1646 - Static Range Sum Queries](source/1646%20-%20Static%20Range%20Sum%20Queries.cpp)
 2. [1647 - Static Range Minimum Queries](source/1647%20-%20Static%20Range%20Minimum%20Queries.cpp)
+3. [1648 - Dynamic Range Sum Queries](source/1648%20-%20Dynamic%20Range%20Sum%20Queries.cpp)
+4. [1649 - Dynamic Range Minimum Queries](source/1649%20-%20Dynamic%20Range%20Minimum%20Queries.cpp)
+
 ## Tree Algorithms
 
 ## Mathematics
