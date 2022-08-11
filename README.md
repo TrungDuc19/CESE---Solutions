@@ -99,9 +99,9 @@
 
 ## Graph Algorithms
 1. [1192 - Counting Rooms](source/1192%20-%20Counting%20Rooms.cpp)
-2. [1193 - Labyrinth]
-3. [1666 - Building Roads]
-4. [1667 - Message Route]
+2. [1193 - Labyrinth](source/1193%20-%20Labyrinth.cpp)
+3. [1666 - Building Roads](source/1666%20-%20Building%20Roads.cpp)
+4. [1667 - Message Route](source/1667%20-%20Message%20Route.cpp)
 5. [1668 - Building Teams]
 6. [1669 - Round Trip]
 7. [1194 - Monsters]
