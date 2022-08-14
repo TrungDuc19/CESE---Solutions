@@ -118,6 +118,7 @@
 ## Tree Algorithms
 
 ## Mathematics
+1. [1095 - Exponentiation](source/1095%20-%20Exponentiation.cpp)
 
 ## String Algorithms
 
