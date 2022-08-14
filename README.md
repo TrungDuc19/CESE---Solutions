@@ -35,7 +35,7 @@
 13. [2165 - Tower of Hanoi](source/2165%20-%20Tower%20of%20Hanoi.cpp)
 14. [1622 - Creating Strings](source/1622%20-%20Creating%20Strings.cpp)
 15. [1623 - Apple Division](source/1623%20-%20Apple%20Division.cpp)
-16. [1624 - Chessboard and Queens]
+16. [1624 - Chessboard and Queens](source/1624%20-%20Chessboard%20and%20Queens.cpp)
 17. [2431 - Digit Queries]
 18. [1625 - Grid Paths]
 
