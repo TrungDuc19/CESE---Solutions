@@ -91,7 +91,7 @@
 12. [1745 - Money Sums](source/1745%20-%20Money%20Sums.cpp)
 13. [1097 - Removal Game]
 14. [1093 - Two Sets II]
-15. [1145 - Increasing Subsequence]
+15. [1145 - Increasing Subsequence](1145 - Increasing Subsequence)
 16. [1140 - Projects]
 17. [1653 - Elevator Rides]
 18. [2181 - Counting Tilings]
